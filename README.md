@@ -1,2 +1,3 @@
-# VanillaBootsrapFilter
-Fillter Images using only Bootstrap
+<p align="center">
+  <img src="preview.png">
+</p>
